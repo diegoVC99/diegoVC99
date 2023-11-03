@@ -1,4 +1,4 @@
-### Hola mi nombre es diego valderrama
+### Hola mi nombre es diego valderrama 😃👋🏽
 
 ## Sobre Mí
 
