@@ -4,8 +4,8 @@
 
 ¡Bienvenido a mi rincón en GitHub! Soy como un ingeniero industrial convertido en un apasionado "alquimista digital". Mi historia se teje en los hilos de la gran minería, donde aprendí a extraer insights valiosos de los datos utilizando la magia de la IoT (Internet de las Cosas). Como un buscador de tesoros de información, me aventuré en el mundo del desarrollo web y el análisis de datos con Python, y mi viaje está lejos de ser un camino común.
 
-![Linkedin](https://img.shields.io/badge/Linkedin-Connect-brightblue?logo=linkedin&logoColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiego-valderrama-calderon%2F
-)
+[![Linkedin](https://img.shields.io/badge/Linkedin-follow-blue?style=social&logo=Linkedin
+)](https://www.linkedin.com/in/diego-valderrama-calderon/)
 
 ### El Arte de Transformar Datos
 
