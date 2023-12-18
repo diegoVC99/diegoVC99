@@ -20,8 +20,8 @@ Como un marinero audaz en un océano de datos, me aventuro en vastas extensiones
 
 Si deseas unirte a mi expedición en el mundo de los datos, puedes encontrarme en las siguientes coordenadas:
 
-- **GitHub:** [Mi perfil de GitHub](https://github.com/TuUsuario)
+- **GitHub:** [Mi perfil de GitHub](https://github.com/@diegovc99)
 - **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/tuperfil/)
-- **Correo Electrónico:** [tu@email.com]
+- **Correo Electrónico:** [diego_14-123@hotmail.com]
 
 Prepárate para zarpar en un viaje de descubrimiento y transformación de datos. ¡Te invito a unirte a esta aventura digital!
