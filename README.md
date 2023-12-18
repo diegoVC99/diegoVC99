@@ -20,7 +20,7 @@ Como un marinero audaz en un océano de datos, me aventuro en vastas extensiones
 
 Si deseas unirte a mi expedición en el mundo de los datos, puedes encontrarme en las siguientes coordenadas:
 
-- **GitHub:** [Mi perfil de GitHub](https://github.com/@diegovc99)
+- **GitHub:** [diegovc99](https://github.com/diegovc99)
 - **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/tuperfil/)
 - **Correo Electrónico:** [diego_14-123@hotmail.com]
 
